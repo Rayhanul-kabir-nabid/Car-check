@@ -1,0 +1,5 @@
+E:\2-1\APL\projects\Mahin Car\ENTITY\bin\Debug\ENTITY.dll
+E:\2-1\APL\projects\Mahin Car\ENTITY\bin\Debug\ENTITY.pdb
+E:\2-1\APL\projects\Mahin Car\ENTITY\obj\Debug\ENTITY.csprojResolveAssemblyReference.cache
+E:\2-1\APL\projects\Mahin Car\ENTITY\obj\Debug\ENTITY.dll
+E:\2-1\APL\projects\Mahin Car\ENTITY\obj\Debug\ENTITY.pdb
